@@ -1,0 +1,15 @@
+{
+    "name": "justinasphp/myfirst-project",
+    "type": "project",
+
+    "authors": [
+        {
+            "name": "Justinas Straukas",
+            "email": "justinas.straukas@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "bbluo/hello": "^1.0"
+    }
+}
